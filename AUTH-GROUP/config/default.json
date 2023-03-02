@@ -1,0 +1,17 @@
+{
+    "DB_CONNEXION":{
+        "URI":"mongodb+srv://ms:essess123@cluster0.jcugqfo.mongodb.net/?retryWrites=true&w=majority"
+    },
+    "SERVER_CONFIG":{
+        "PORT":5000
+    },
+    "JWT_CONFIG":{
+        "SECRET_KEY":"MYAPP"
+
+    },
+    "CLOUDINARY":{
+        "CLOUD_NAME":"",
+        "API_KEY":"",
+        "API_SECRET":""
+    }
+}
